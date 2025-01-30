@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.offer{
+    background: #0f0f0f;
+    text-align: center;
+    font-size: 15px;
+    font-style: italic;
+    font-size: 15px;
+}
+
+.slider img{
+    display: flex;
+    height: 55vh;
+    width: 50%;
+    /* padding-left: 100px; */
+    margin-top: -355px;
+    padding-bottom: 10px;
+    left: -10%;
+    translate: 10%;
+    z-index: -1;
+}
+
+.slider .text-area{
+    position: relative;
+    height: 54.9vh;
+    width: 50%;
+    background: orangered;
+    /* margin-left: 600px; */
+    /* margin-right: 10px; */
+    margin-top: 10px;
+    z-index: 1;
+    left: 90%;
+    translate: -90%;
+}
+
+.slider .text-area h1{
+    padding: 40px;
+    font-size: 22px;
+}
