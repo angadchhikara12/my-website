@@ -52,7 +52,7 @@
 .🪵 button:hover{
     background: white;
     color: black;
-    box-shadow: 0px 5px black;
+    box-shadow: 0px 5px 5px black;
     border: none;
 }
 
@@ -129,7 +129,7 @@
 .®️ button:hover{
     background: white;
     color: black;
-    box-shadow: 0px 5px black;
+    box-shadow: 0px 5px 5px black;
     border: none;
 }
 
